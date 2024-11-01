@@ -10,7 +10,7 @@ Seven course series
 - Google Advanced Data Analytics Capstone
 
 
-## What I've learn
+## What I've learned
 - Explore the roles of data professionals within an organization 
 
 - Create data visualizations and apply statistical methods to investigate data
@@ -19,7 +19,7 @@ Seven course series
 
 - Communicate insights from data analysis to stakeholders
 
-## Skills I've gain
+## Skills I've gained
 
 - Data Science
 - Data Analysis
