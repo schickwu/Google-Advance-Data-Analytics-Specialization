@@ -1,6 +1,6 @@
 # Google-Advance-Data-Analytics
 
-Seven course series:
+Seven course series
 - Foundations of Data Science
 - Get Started with Python
 - Go Beyond the Numbers: Translate Data into Insights
@@ -19,7 +19,7 @@ Seven course series:
 
 - Communicate insights from data analysis to stakeholders
 
-Skills I've gain
+## Skills I've gain
 
 - Data Science
 - Data Analysis
