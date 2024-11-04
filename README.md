@@ -37,7 +37,9 @@ Seven course series
 
 ## Final Project 1: TikTok Project
 ### Overview
-The TikTok team wants to do some EDA and develop a machine learning model to help classify the claim_status of a specific video, as this factor is very important for the TikTok team to decide whether to manually review the video.
+The TikTok platform is struggling with detecting and reviewing regulation-violated videos and deal with users report to videos that they believe violate the platform's terms of service, because TikTok is a enomous company and deal with a very large number of videos, so we want to find an efficient way of dealing with service-violated videos.
+Basic data analysis shows that claim videos are more likely to violate regulations, so we think it will be efficient to determine the videos' claim_status, in order to furthur deal with the violation problem.
+In order to accurately determine the claim_status of a specific video, we plan to build a machine learning model for this task. After accurately determined the claim_status of videos, we can further review and deal with claim videos, as they are more likely to violate rules, we will assign a high priority to claim videos and review and process them mannually by humans.
 ### Assignment 2:  Inspect and analyze data
 - Notebook_2: https://github.com/schickwu/Google-Advance-Data-Analytics-Specialization/blob/main/assignment2/Activity_Course%202%20TikTok%20project%20lab-Inspect%20and%20analyze%20data.ipynb
 - Executive-summaries_2: https://github.com/schickwu/Google-Advance-Data-Analytics-Specialization/blob/main/assignment2/Executive-summaries_2.pdf
