@@ -67,8 +67,8 @@ If you can predict employees likely to quit, it might be possible to identify fa
 ### Steps: 
 - Import Packages and Load Dataset
 - Data Exploration (Initial EDA and data cleaning)
-  - Understand your variables
-  - Clean your dataset (missing data, redundant data, outliers)
+  - Understand variables
+  - Clean dataset (missing data, redundant data, outliers)
 - Data Exploration (Continue EDA)
 - Model Building
 - Results and Evaluation
