@@ -38,8 +38,8 @@ Seven course series
 ## Final Project 1: TikTok Project
 ### Overview
 The TikTok platform is struggling with detecting and reviewing regulation-violated videos and deal with users report to videos that they believe violate the platform's terms of service, because TikTok is a enomous company and deal with a very large number of videos, so we want to find an efficient way of dealing with service-violated videos.
-Basic data analysis shows that claim videos are more likely to violate regulations, so we think it will be efficient to determine the videos' claim_status, in order to furthur deal with the violation problem.
-In order to accurately determine the claim_status of a specific video, we plan to build a machine learning model for this task. After accurately determined the claim_status of videos, we can further review and deal with claim videos, as they are more likely to violate rules, we will assign a high priority to claim videos and review and process them mannually by humans.
+Basic data analysis shows that claim videos are more likely to violate regulations, so we think it will be efficient to determine the videos' claim_status.
+In order to accurately determine the claim_status of a specific video, we plan to build a machine learning model for this task. After accurately determined the claim_status of videos, as they are more likely to violate rules, we will assign a high priority to claim videos and review and process them mannually by humans.
 ### Assignment 2:  Inspect and analyze data
 - Notebook_2: https://github.com/schickwu/Google-Advance-Data-Analytics-Specialization/blob/main/assignment2/Activity_Course%202%20TikTok%20project%20lab-Inspect%20and%20analyze%20data.ipynb
 - Executive-summaries_2: https://github.com/schickwu/Google-Advance-Data-Analytics-Specialization/blob/main/assignment2/Executive-summaries_2.pdf
@@ -59,7 +59,7 @@ In order to accurately determine the claim_status of a specific video, we plan t
 
 ## Final Project 2: Salifort Motors Employee Retention Project
 ### Overview and Business Problem:
-Because it is timeconsuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.
+Because it is time consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.
 The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. They collected data from employees, but now they don’t know what to do with it. They refer to you as a data analytics professional and ask you to provide data-driven suggestions based on your understanding of the data. They have the following question: what’s likely to make the employee leave the company?
 Your goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 If you can predict employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.
